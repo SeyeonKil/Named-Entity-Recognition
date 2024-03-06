@@ -1,7 +1,7 @@
 # Named-Entity-Recognition
 Named entity recognition using bidirectional LSTM layers
 
-This project aims to develop multilingual named entity recognition that can deal with text that is written in english, french german and Italian. 
+This project aims to develop multilingual named entity recognition that can deal with text that is written in english, french, german and Italian. 
 
 In these days, named entity recognition (NER) is widely used around in our daily life. NER is a sub-task of information extraction in Natural Language Processing (NLP) that classifies named entities into predefined categories such as person names, organizations and locations. 
 
